@@ -1,0 +1,310 @@
+warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock,date
+Asaba,SKU-005,Peak Milk Tin 400G,Beverages,20,1292.48,44,25/05/2026
+Asaba,SKU-015,Close-Up Toothpaste 140G,Personal Care,22,856.06,287,25/05/2026
+Asaba,SKU-013,Dettol Antiseptic 500Ml,Household,20,1961.77,111,25/05/2026
+Asaba,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,24,3879.54,178,25/05/2026
+Asaba,SKU-002,Dangote Sugar 1Kg,Packaged Foods,18,943.8,88,25/05/2026
+Asaba,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,23,1863.07,93,25/05/2026
+Asaba,SKU-012, Sunlight Dishwashing Liquid 900Ml ,Household,19,1619.76,310,25/05/2026
+Asaba,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,22,1354.29,110,25/05/2026
+Asaba,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,21,1224.1,63,25/05/2026
+Asaba,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,16,1440.87,124,25/05/2026
+Asaba,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,24,7338.88,340,25/05/2026
+Asaba,SKU-011,Omo Detergent 900G,Household,20,2493.81,61,25/05/2026
+Asaba,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,16,2274.94,250,25/05/2026
+Asaba,SKU-004, Milo Refill 400G ,Beverages,22,2642.07,356,25/05/2026
+Asaba,SKU-018,Nivea Body Lotion 400Ml,Personal Care,16,3003.88,299,25/05/2026
+Asaba,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,17,2169.83,55,25/05/2026
+Asaba,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,18,4811.83,324,25/05/2026
+Asaba,SKU-014,Ariel Detergent 900G,Household,19,2660.07,204,25/05/2026
+Asaba,SKU-022, Mama Gold Rice 5Kg ,Packaged Foods,17,6527.43,282,25/05/2026
+Asaba,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,12,11280.42,179,25/05/2026
+Asaba,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,23,2129.08,126,26/05/2026
+Asaba,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,22,3961.34,219,26/05/2026
+Asaba,SKU-024,Hypo Bleach 750Ml,Household,18,892.62,7,26/05/2026
+Asaba,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,13,1580.86,249,26/05/2026
+Asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,14,11378.12,363,26/05/2026
+Asaba ,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,17,2265.78,292,26/05/2026
+Asaba,SKU-019,Cowbell Milk Powder 400G,Beverages,19,2123.75,16,26/05/2026
+Asaba,SKU-015, Close-Up Toothpaste 140G ,Personal Care,15,856.26,130,26/05/2026
+Asaba,SKU-005,Peak Milk Tin 400G,Beverages,19,1280.61,7,26/05/2026
+Asaba ,SKU-013,Dettol Antiseptic 500Ml,Household,12,1943.97,105,26/05/2026
+Asaba ,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,13,8524.74,227,26/05/2026
+Asaba,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,13,1385.76,94,26/05/2026
+Asaba,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,19,1232.16,118,26/05/2026
+Asaba,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,19,4929.56,342,26/05/2026
+Asaba ,SKU-002,Dangote Sugar 1Kg,Packaged Foods,20,993.97,376,26/05/2026
+Asaba ,SKU-014,Ariel Detergent 900G,Household,17,2674.09,128,26/05/2026
+Asaba,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,16,1333.28,135,26/05/2026
+Asaba,SKU-025, Maggi Cubes (Pack Of 50) ,Packaged Foods,15,1845.71,238,26/05/2026
+Asaba,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,16,2079.59,92,27/05/2026
+Asaba,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,14,1574.42,181,27/05/2026
+Asaba,SKU-013,Dettol Antiseptic 500Ml,Household,12,1916.65,205,27/05/2026
+Asaba,SKU-019,Cowbell Milk Powder 400G,Beverages,17,2064.31,0,27/05/2026
+Asaba ,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,19,10712.95,333,27/05/2026
+Asaba,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,21,1344.73,352,27/05/2026
+Asaba,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,11,1855.72,341,27/05/2026
+Asaba ,SKU-015,Close-Up Toothpaste 140G,Personal Care,16,855.04,309,27/05/2026
+Asaba ,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,9,7461.53,92,27/05/2026
+Asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,17,11603.76,262,27/05/2026
+Asaba ,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,10,1226.86,253,27/05/2026
+Asaba,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,19,1444.6,266,27/05/2026
+Asaba,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,21,10884.48,84,28/05/2026
+Asaba,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,24,6741.06,118,28/05/2026
+Asaba,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,23,1463.21,14,28/05/2026
+Asaba,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,16,3822.08,232,28/05/2026
+Asaba,SKU-014,Ariel Detergent 900G,Household,13,2827.67,0,28/05/2026
+Asaba,SKU-013,Dettol Antiseptic 500Ml,Household,15,1966.27,50,28/05/2026
+Asaba,SKU-004,Milo Refill 400G,Beverages,20,2633.84,210,28/05/2026
+Asaba,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,20,1244.3,113,28/05/2026
+Asaba,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,12,4840.8,278,28/05/2026
+Asaba,SKU-019,Cowbell Milk Powder 400G,Beverages,16,2073.09,98,28/05/2026
+Asaba,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,16,1487.13,19,28/05/2026
+Asaba,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,26,1381.03,94,28/05/2026
+Asaba ,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,11,1802.64,388,28/05/2026
+Asaba,SKU-024,Hypo Bleach 750Ml,Household,13,933.67,278,28/05/2026
+Asaba ,SKU-013,Dettol Antiseptic 500Ml,Household,23,1893.24,286,29/05/2026
+Asaba ,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,29,1554.31,258,29/05/2026
+Asaba ,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,12,1455.82,18,29/05/2026
+Asaba,SKU-005,Peak Milk Tin 400G,Beverages,19,1274.89,267,29/05/2026
+Asaba,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,18,1349.42,297,29/05/2026
+Asaba,SKU-018,Nivea Body Lotion 400Ml,Personal Care,23,3057.04,19,29/05/2026
+Asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,11,11591.14,54,29/05/2026
+Asaba,SKU-011,Omo Detergent 900G,Household,13,2473.57,378,29/05/2026
+Asaba,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,13,8549.34,192,29/05/2026
+Asaba,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,19,2112.57,361,29/05/2026
+Asaba,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,15,1382.46,305,29/05/2026
+Asaba,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,16,6817.9,373,29/05/2026
+Asaba ,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,23,2280.29,58,30/05/2026
+Asaba ,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,13,1213.54,176,30/05/2026
+Asaba,SKU-014,Ariel Detergent 900G,Household,10,2738.99,231,30/05/2026
+Asaba,SKU-019,Cowbell Milk Powder 400G,Beverages,15,2012.32,108,30/05/2026
+Asaba ,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,14,1485.91,0,30/05/2026
+Asaba,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,15,7524,384,30/05/2026
+Asaba ,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,18,6605.06,23,30/05/2026
+Asaba,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,22,8113.56,291,30/05/2026
+Asaba,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,16,4990.77,43,30/05/2026
+Asaba ,SKU-013,Dettol Antiseptic 500Ml,Household,17,1994.47,0,30/05/2026
+Asaba,SKU-002,Dangote Sugar 1Kg,Packaged Foods,23,957.4,92,30/05/2026
+Asaba,SKU-012, Sunlight Dishwashing Liquid 900Ml ,Household,15,1557.72,230,30/05/2026
+Asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,10,11453.72,92,30/05/2026
+Asaba,SKU-011,Omo Detergent 900G,Household,14,2512.45,163,30/05/2026
+Asaba,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,11,2175.3,184,30/05/2026
+Asaba,SKU-018,Nivea Body Lotion 400Ml,Personal Care,14,3052.27,365,30/05/2026
+Asaba ,SKU-004,Milo Refill 400G,Beverages,18,2593.03,210,30/05/2026
+Asaba,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,20,1437.1,66,31/05/2026
+Asaba,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,16,11106.21,374,31/05/2026
+Asaba ,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,-16,8132.06,211,31/05/2026
+Asaba,SKU-015,Close-Up Toothpaste 140G,Personal Care,13,876.75,73,31/05/2026
+Asaba,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,20,3949.87,271,31/05/2026
+Asaba ,SKU-005,Peak Milk Tin 400G,Beverages,24,1285.1,148,31/05/2026
+Asaba ,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,21,2087.21,130,31/05/2026
+Asaba,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,19,1242.48,0,31/05/2026
+Asaba ,SKU-021, Honeywell Semolina 1Kg ,Packaged Foods,22,1432.63,238,31/05/2026
+Asaba,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,30,4851,225,31/05/2026
+Asaba,SKU-004,Milo Refill 400G,Beverages,15,2627.85,352,31/05/2026
+Asaba,SKU-009, Kings Vegetable Oil 5L ,Packaged Foods,16,11894.4,62,31/05/2026
+Benin,SKU-015,Close-Up Toothpaste 140G,Personal Care,18,886.9,236,25/05/2026
+Benin City,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,16,8103.98,160,25/05/2026
+Benin City,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,17,1429.32,261,25/05/2026
+Benin,SKU-004,Milo Refill 400G,Beverages,16,2676.06,13,25/05/2026
+Benin,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,11,4795.67,144,25/05/2026
+Benin City,SKU-002,Dangote Sugar 1Kg,Packaged Foods,15,996.69,124,25/05/2026
+Benin City,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,23,11267.16,272,25/05/2026
+Benin,SKU-018,Nivea Body Lotion 400Ml,Personal Care,15,2966.42,74,25/05/2026
+Benin,SKU-011,Omo Detergent 900G,Household,25,2420.03,366,25/05/2026
+Benin City,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,23,6805.87,86,25/05/2026
+Benin City,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,13,1883.54,168,25/05/2026
+Benin City,SKU-020, Lipton Yellow Label Tea (100 Bags) ,Beverages,23,2309.74,127,26/05/2026
+Benin City,SKU-005,Peak Milk Tin 400G,Beverages,18,1304.54,239,26/05/2026
+Benin City,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,15,7542.68,111,26/05/2026
+Benin,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,19,6600.95,201,26/05/2026
+Benin City,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,23,1453.93,99,26/05/2026
+Benin City,SKU-018,Nivea Body Lotion 400Ml,Personal Care,17,3036.14,201,26/05/2026
+Benin,SKU-007, Bigi Cola 50Cl (Pack Of 12) ,Beverages,15,4038.1,325,26/05/2026
+Benin,SKU-013, Dettol Antiseptic 500Ml ,Household,20,1880.45,334,26/05/2026
+Benin City,SKU-019,Cowbell Milk Powder 400G,Beverages,13,2024.36,316,26/05/2026
+Benin,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,19,1429.61,12,26/05/2026
+Benin City,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,16,1192.57,91,26/05/2026
+Benin,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,14,4795.02,151,27/05/2026
+Benin City,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,11,2128.63,232,27/05/2026
+Benin City,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,20,1878.68,239,27/05/2026
+Benin City,SKU-019,Cowbell Milk Powder 400G,Beverages,14,2096.45,0,27/05/2026
+Benin City,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,15,8315.27,166,27/05/2026
+Benin,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,20,7389.53,84,27/05/2026
+Benin,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,17,1512.26,40,27/05/2026
+Benin City,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,18,1428.57,188,27/05/2026
+Benin,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,22,11036.93,38,27/05/2026
+Benin,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,16,11904.55,307,27/05/2026
+Benin City,SKU-024,Hypo Bleach 750Ml,Household,16,920.15,73,27/05/2026
+Benin City,SKU-018,Nivea Body Lotion 400Ml,Personal Care,23,3091.39,39,27/05/2026
+Benin City,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,16,1339.12,180,27/05/2026
+Benin,SKU-002,Dangote Sugar 1Kg,Packaged Foods,15,938.05,0,27/05/2026
+Benin City,SKU-013,Dettol Antiseptic 500Ml,Household,19,1947.9,130,28/05/2026
+Benin City,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,16,1766.14,382,28/05/2026
+Benin City,SKU-003, Indomie Chicken Noodles (Carton) ,Packaged Foods,18,8193.02,361,28/05/2026
+Benin,SKU-015,Close-Up Toothpaste 140G,Personal Care,21,852.28,220,28/05/2026
+Benin City,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,18,7523.18,292,28/05/2026
+Benin,SKU-002,Dangote Sugar 1Kg,Packaged Foods,15,981.72,129,28/05/2026
+Benin,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,17,1228.83,177,28/05/2026
+Benin City,SKU-005,Peak Milk Tin 400G,Beverages,10,1319.88,313,28/05/2026
+Benin,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,19,6662.03,136,28/05/2026
+Benin,SKU-008, Nasco Corn Flakes 500G ,Packaged Foods,18,2181.91,26,28/05/2026
+Benin,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,24,1624.5,221,28/05/2026
+Benin City,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,14,3859.58,341,28/05/2026
+Benin City,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,-13,1357.38,354,28/05/2026
+Benin,SKU-011,Omo Detergent 900G,Household,20,2571.3,346,28/05/2026
+Benin City,SKU-004,Milo Refill 400G,Beverages,19,2635.82,70,28/05/2026
+Benin City,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,22,1614.96,122,29/05/2026
+Benin City,SKU-020, Lipton Yellow Label Tea (100 Bags) ,Beverages,18,2267.86,163,29/05/2026
+Benin,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,15,1458.67,125,29/05/2026
+Benin,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,24,3904.46,0,29/05/2026
+Benin City,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,22,8154.45,285,29/05/2026
+Benin,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,17,1359.04,360,29/05/2026
+Benin City,SKU-009, Kings Vegetable Oil 5L ,Packaged Foods,24,11723.4,252,29/05/2026
+Benin City,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,16,2113.02,308,29/05/2026
+Benin,SKU-022, Mama Gold Rice 5Kg ,Packaged Foods,19,6596.33,73,29/05/2026
+Benin City,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,15,4953.26,297,29/05/2026
+Benin,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,17,1185.47,110,29/05/2026
+Benin City,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,9,1489.43,82,29/05/2026
+Benin City,SKU-004, Milo Refill 400G ,Beverages,27,2663.88,210,29/05/2026
+Benin City,SKU-024,Hypo Bleach 750Ml,Household,19,912.25,43,29/05/2026
+Benin,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,11,1594.29,185,30/05/2026
+Benin City,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,22,1461.23,235,30/05/2026
+Benin,SKU-019,Cowbell Milk Powder 400G,Beverages,17,2045.55,0,30/05/2026
+Benin,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,11,8446.74,115,30/05/2026
+Benin,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,16,11570.48,155,30/05/2026
+Benin City,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,14,2306.4,231,30/05/2026
+Benin,SKU-004,Milo Refill 400G,Beverages,18,2611.91,17,30/05/2026
+Benin City,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,22,3945.06,252,30/05/2026
+Benin,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,19,6823.11,207,30/05/2026
+Benin City,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,11,7348.43,356,30/05/2026
+Benin City,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,27,10992.4,163,30/05/2026
+Benin,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,27,1210.26,59,30/05/2026
+Benin,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,14,3854.12,81,31/05/2026
+Benin,SKU-005,Peak Milk Tin 400G,Beverages,20,1305.99,265,31/05/2026
+Benin City,SKU-024,Hypo Bleach 750Ml,Household,23,903.42,58,31/05/2026
+Benin,SKU-001, Golden Penny Semovita 1Kg ,Packaged Foods,24,1435.13,229,31/05/2026
+Benin City,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,12,4706.98,204,31/05/2026
+Benin City,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,20,6712.33,231,31/05/2026
+Benin City,SKU-011,Omo Detergent 900G,Household,16,2482.42,123,31/05/2026
+Benin,SKU-017,Always Ultra Pads (Pack Of 8),Personal Care,17,1346.35,90,31/05/2026
+Benin City,SKU-019,Cowbell Milk Powder 400G,Beverages,20,2070.7,17,31/05/2026
+Benin,SKU-021, Honeywell Semolina 1Kg ,Packaged Foods,14,1389.76,114,31/05/2026
+Benin,SKU-014,Ariel Detergent 900G,Household,23,2719.2,196,31/05/2026
+Benin,SKU-004,Milo Refill 400G,Beverages,9,2613.07,142,31/05/2026
+Benin,SKU-010, Devon King'S Vegetable Oil 3L ,Packaged Foods,24,7301.67,240,31/05/2026
+Benin City,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,20,1228.02,36,31/05/2026
+Benin,SKU-002,Dangote Sugar 1Kg,Packaged Foods,20,975.2,183,31/05/2026
+Benin,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,15,1549.26,185,31/05/2026
+Benin,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,22,8373.01,186,31/05/2026
+Benin City,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,28,10967.38,191,31/05/2026
+Benin,SKU-018, Nivea Body Lotion 400Ml ,Personal Care,27,2917.22,270,31/05/2026
+Benin,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,20,1805.76,125,31/05/2026
+Onitsha  ,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,21,8448.31,47,25/05/2026
+Onitsha,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,25,1202.79,299,25/05/2026
+Onitsha,SKU-004,Milo Refill 400G,Beverages,13,2691.5,105,25/05/2026
+Onitsha  ,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,-13,6722.38,293,25/05/2026
+Onitsha  ,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,15,4729.61,230,25/05/2026
+Onitsha,SKU-019,Cowbell Milk Powder 400G,Beverages,12,2009.01,369,25/05/2026
+Onitsha,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,22,1856.2,355,25/05/2026
+Onitsha,SKU-011,Omo Detergent 900G,Household,25,2494.4,113,25/05/2026
+Onitsha,SKU-002, Dangote Sugar 1Kg ,Packaged Foods,13,977.22,259,25/05/2026
+Onitsha,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,18,2137.97,0,25/05/2026
+Onitsha,SKU-005,Peak Milk Tin 400G,Beverages,19,1291.53,105,25/05/2026
+Onitsha,SKU-015,Close-Up Toothpaste 140G,Personal Care,13,856.42,12,25/05/2026
+Onitsha,SKU-013,Dettol Antiseptic 500Ml,Household,17,1877.87,0,26/05/2026
+Onitsha,SKU-015,Close-Up Toothpaste 140G,Personal Care,25,888.49,17,26/05/2026
+Onitsha,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,-15,3871.09,204,26/05/2026
+Onitsha,SKU-005, Peak Milk Tin 400G ,Beverages,29,1322.88,19,26/05/2026
+Onitsha,SKU-002,Dangote Sugar 1Kg,Packaged Foods,18,969.34,178,26/05/2026
+Onitsha,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,18,10615.02,178,26/05/2026
+Onitsha,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,20,4797.58,160,26/05/2026
+Onitsha,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,17,6692.73,7,26/05/2026
+Onitsha,SKU-018,Nivea Body Lotion 400Ml,Personal Care,22,3064.55,69,26/05/2026
+Onitsha,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,20,1876.82,22,26/05/2026
+Onitsha,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,19,1429,32,26/05/2026
+Onitsha,SKU-004,Milo Refill 400G,Beverages,17,2614.46,111,27/05/2026
+Onitsha,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,18,1226,0,27/05/2026
+Onitsha  ,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,17,1425.91,370,27/05/2026
+Onitsha,SKU-009, Kings Vegetable Oil 5L ,Packaged Foods,18,11766.31,11,27/05/2026
+Onitsha,SKU-018,Nivea Body Lotion 400Ml,Personal Care,15,3033.19,313,27/05/2026
+Onitsha,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,20,8069.7,135,27/05/2026
+Onitsha  ,SKU-013,Dettol Antiseptic 500Ml,Household,10,1863.07,327,27/05/2026
+Onitsha,SKU-014,Ariel Detergent 900G,Household,16,2721.25,265,27/05/2026
+Onitsha,SKU-005,Peak Milk Tin 400G,Beverages,14,1274.76,227,27/05/2026
+Onitsha,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,19,1619.44,281,27/05/2026
+Onitsha  ,SKU-025, Maggi Cubes (Pack Of 50) ,Packaged Foods,22,1872.74,236,27/05/2026
+Onitsha,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,12,7112.51,50,27/05/2026
+Onitsha,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,17,1235.93,89,28/05/2026
+Onitsha,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,17,1450.77,169,28/05/2026
+Onitsha,SKU-004,Milo Refill 400G,Beverages,18,2633.3,71,28/05/2026
+Onitsha,SKU-022, Mama Gold Rice 5Kg ,Packaged Foods,19,6486.33,52,28/05/2026
+Onitsha  ,SKU-002,Dangote Sugar 1Kg,Packaged Foods,19,976.39,129,28/05/2026
+Onitsha,SKU-014,Ariel Detergent 900G,Household,18,2722.47,147,28/05/2026
+Onitsha,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,14,5013.64,93,28/05/2026
+Onitsha,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,16,8571.2,258,28/05/2026
+Onitsha  ,SKU-011,Omo Detergent 900G,Household,23,2416.21,77,28/05/2026
+Onitsha  ,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,18,11961.87,262,28/05/2026
+Onitsha,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,17,2136.63,357,28/05/2026
+Onitsha,SKU-024, Hypo Bleach 750Ml ,Household,18,905.65,234,28/05/2026
+Onitsha,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,19,11040.22,78,28/05/2026
+Onitsha,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,17,7182.69,176,28/05/2026
+Onitsha,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,18,1468.78,33,28/05/2026
+Onitsha,SKU-006,Coca-Cola Pet 50Cl (Pack Of 12),Beverages,23,4938.86,339,29/05/2026
+Onitsha,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,18,6552.82,116,29/05/2026
+Onitsha,SKU-018,Nivea Body Lotion 400Ml,Personal Care,15,3014.52,101,29/05/2026
+Onitsha,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,17,11909.06,215,29/05/2026
+Onitsha,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,19,8281.69,355,29/05/2026
+Onitsha,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,13,1180.4,5,29/05/2026
+Onitsha  ,SKU-008, Nasco Corn Flakes 500G ,Packaged Foods,21,2072.82,203,29/05/2026
+Onitsha,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,10,3825.88,154,29/05/2026
+Onitsha,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,17,1459.17,0,29/05/2026
+Onitsha  ,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,24,10914.01,319,29/05/2026
+Onitsha  ,SKU-019,Cowbell Milk Powder 400G,Beverages,14,2010.98,285,29/05/2026
+Onitsha,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,13,2278.91,32,29/05/2026
+Onitsha,SKU-015, Close-Up Toothpaste 140G ,Personal Care,16,837.36,0,29/05/2026
+Onitsha,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,10,1468.45,164,29/05/2026
+Onitsha,SKU-012,Sunlight Dishwashing Liquid 900Ml,Household,23,1567.59,190,29/05/2026
+Onitsha,SKU-011, Omo Detergent 900G ,Household,21,2450.33,65,29/05/2026
+Onitsha,SKU-014,Ariel Detergent 900G,Household,20,2818.03,131,29/05/2026
+Onitsha,SKU-025, Maggi Cubes (Pack Of 50) ,Packaged Foods,13,1788.33,262,29/05/2026
+Onitsha  ,SKU-014,Ariel Detergent 900G,Household,18,2742.28,202,30/05/2026
+Onitsha,SKU-021,Honeywell Semolina 1Kg,Packaged Foods,20,1386.98,0,30/05/2026
+Onitsha,SKU-015,Close-Up Toothpaste 140G,Personal Care,18,836.42,216,30/05/2026
+Onitsha  ,SKU-005,Peak Milk Tin 400G,Beverages,23,1304.08,43,30/05/2026
+Onitsha,SKU-004,Milo Refill 400G,Beverages,17,2714.42,93,30/05/2026
+Onitsha  ,SKU-011, Omo Detergent 900G ,Household,14,2443.04,347,30/05/2026
+Onitsha,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,17,8468.24,112,30/05/2026
+Onitsha,SKU-019,Cowbell Milk Powder 400G,Beverages,20,2114.6,371,30/05/2026
+Onitsha,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,21,11191.81,227,30/05/2026
+Onitsha,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,22,11682.72,30,30/05/2026
+Onitsha,SKU-022,Mama Gold Rice 5Kg,Packaged Foods,11,6430.25,322,30/05/2026
+Onitsha  ,SKU-018,Nivea Body Lotion 400Ml,Personal Care,24,3070.24,333,30/05/2026
+Onitsha,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,14,2310.68,289,30/05/2026
+Onitsha,SKU-001, Golden Penny Semovita 1Kg ,Packaged Foods,15,1502.37,38,30/05/2026
+Onitsha,SKU-007, Bigi Cola 50Cl (Pack Of 12) ,Beverages,21,3964.99,136,30/05/2026
+Onitsha,SKU-024,Hypo Bleach 750Ml,Household,15,943.08,280,30/05/2026
+Onitsha,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,22,2157.49,341,30/05/2026
+Onitsha,SKU-025,Maggi Cubes (Pack Of 50),Packaged Foods,12,1872.56,34,30/05/2026
+Onitsha,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,17,1207.09,273,30/05/2026
+Onitsha,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,13,7273.83,74,30/05/2026
+Onitsha  ,SKU-006, Coca-Cola Pet 50Cl (Pack Of 12) ,Beverages,21,4964.58,239,30/05/2026
+Onitsha  ,SKU-001,Golden Penny Semovita 1Kg,Packaged Foods,19,1502.81,256,31/05/2026
+Onitsha,SKU-002,Dangote Sugar 1Kg,Packaged Foods,16,940.75,10,31/05/2026
+Onitsha,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,13,11361.51,185,31/05/2026
+Onitsha,SKU-005,Peak Milk Tin 400G,Beverages,18,1363.34,290,31/05/2026
+Onitsha,SKU-004,Milo Refill 400G,Beverages,23,2639.47,1,31/05/2026
+Onitsha,SKU-024, Hypo Bleach 750Ml ,Household,11,933.19,0,31/05/2026
+Onitsha,SKU-020,Lipton Yellow Label Tea (100 Bags),Beverages,17,2334.64,60,31/05/2026
+Onitsha  ,SKU-014,Ariel Detergent 900G,Household,14,2685.71,205,31/05/2026
+Onitsha,SKU-019,Cowbell Milk Powder 400G,Beverages,12,2107.33,238,31/05/2026
+Onitsha  ,SKU-010,Devon King'S Vegetable Oil 3L,Packaged Foods,15,7057.25,29,31/05/2026
+Onitsha,SKU-008,Nasco Corn Flakes 500G,Packaged Foods,20,2194.39,312,31/05/2026
+Onitsha,SKU-016,Dudu-Osun Black Soap (Pack Of 6),Personal Care,23,1223.63,4,31/05/2026
+Onitsha,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,20,8112.81,312,31/05/2026
+Onitsha,SKU-017, Always Ultra Pads (Pack Of 8) ,Personal Care,20,1397.76,156,31/05/2026
+Onitsha  ,SKU-012, Sunlight Dishwashing Liquid 900Ml ,Household,26,1615.41,94,31/05/2026
+Onitsha,SKU-013,Dettol Antiseptic 500Ml,Household,25,1902.23,366,31/05/2026
+Onitsha,SKU-011,Omo Detergent 900G,Household,18,2529.44,246,31/05/2026
+Onitsha,SKU-007,Bigi Cola 50Cl (Pack Of 12),Beverages,17,3936.66,6,31/05/2026
